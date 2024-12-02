@@ -1,0 +1,1021 @@
+*{
+    background-color: black;
+}
+/*css code for background image*/
+.image .bestmoviesonnetflix{
+    height: 500px;
+    width: 900px;
+    display: block;
+    position: absolute;
+    top: 170px;
+    left: 200px;
+}
+/*netflix logo*/
+.navbar .netflix{
+    color: red;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+.image .topmoviesbackground{
+    height: 600px;
+    width: 1250px;
+}
+/*css code for only on netflix movie section*/
+.onlyonnetflix{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 50px;
+    margin-bottom: 0px;
+}
+.onlyonnetflixmovies .sector36{
+    height: 270px;
+    width: 200px;
+    border-radius: 20px;
+}
+.onlyonnetflixmovies a:hover{
+    cursor: pointer;
+    border-radius: 1px;
+    background-color: brown;
+    height: 270px;
+    position: relative;
+    top: 2px;   
+}
+.onlyonnetflixmovies img{
+    height: 270px;
+    width: 200px;
+    border-radius: 19px;
+}
+.onlyonnetflixmovies{
+    display: flex;
+    gap: 30px;
+    padding-left: 60px;
+    height: 270px;
+}
+/*css code for top 10 movies in india today*/
+.top10moviesinindiatoday{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 50px;
+    margin-bottom: 0px;
+}
+.numbers .one{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.numbers .two{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.numbers .three{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.numbers .four{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.numbers .five{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.numbers .six{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.numbers .seven{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.numbers .eight{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.numbers .nine{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.numbers .ten{
+    font-size: 60px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.top10 .numbers{
+    display: inline-flex;
+    justify-content: space-between;
+    gap: 84px;
+    position: relative;
+    left: 30px;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.top10 .numbers>p{
+    
+    display: inline-block;
+    position: relative;
+    top: -30px;
+    right: 18px;
+}
+.top10{
+    height: 100px;
+    width: 1150px;
+}
+.top10movies .i{
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: -220px;
+    left: 74px;
+}
+.top10movies .ii{
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: -220px;
+    left: 105px;
+}
+.top10movies .iii{
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: -220px;
+    left: 135px;
+}
+.top10movies .iv{
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: -220px;
+    left: 165px;
+}
+.top10movies .v{
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: -220px;
+    left: 196px;
+}
+.top10movies .vi{
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: -220px;
+    left: 225px;
+}
+.top10movies .vii{
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: -220px;
+    left: 255px;
+}
+.top10movies .viii{
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: -220px;
+    left: 285px;
+}
+.top10movies .ix{
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: -220px;
+    left: 315px;
+}
+.top10movies .x{
+    height: 120px;
+    width: 80px;
+    position: relative;
+    top: -220px;
+    left: 370px;
+}
+.top10movies img:hover{
+    height: 150px;
+    width: 100px;
+    position: relative;
+    
+}
+.top10{
+    height: 200px;
+}
+/*css code for trending english movies*/
+.englishmovies img{
+    height: 300px;
+    width: 200px;
+    border-radius: 20px;
+}
+.englishmovies a:hover{
+    cursor: pointer;
+    background-color: brown;
+    border-radius: 10px;
+    height: 300px;
+}
+.englishmovies{
+    display: flex;
+    gap: 65px;
+    padding-left: 100px;
+    align-items: center;
+}
+.trendingenglishmovies>p{
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+/*css code for thriller movies*/
+.thriller{
+    color: white;
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-left: 50px;
+}
+.horrormovies img{
+    height: 200px;
+    width: 140px;
+    border-radius: 19px;
+}
+.horrormovies{
+    display: flex;
+    gap: 65px;
+    padding-left: 130px;
+    align-items: center;
+}
+.horrormovies a:hover{
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: brown;
+    height: 200px;
+}
+/*css code for trending us movies*/
+.us>p{
+    color: white;
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-left: 50px;
+}
+.usmovies img{
+    height: 200px;
+    width: 140px;
+    border-radius: 19px;
+}
+.usmovies{
+    display: flex;
+    gap: 65px;
+    padding-left: 130px;
+    align-items: center;
+}
+.usmovies a:hover{
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: brown;
+    height: 200px;
+}
+/*css code for trending comedy english  movies*/
+.comedy>p{
+    color: white;
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-left: 50px;
+}
+.comedymovies img{
+    height: 200px;
+    width: 140px;
+    border-radius: 19px;
+}
+.comedymovies a:hover{
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: brown;
+    height: 200px;
+}
+.comedymovies{
+    display: flex;
+    gap: 65px;
+    padding-left: 130px;
+    align-items: center;
+}
+/*hr line*/
+hr{
+    background-color: red;
+    height: 3px;
+    border-color: black;
+}
+/*css code for trending hindi movies*/
+.trendinghindimovies>p{
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.hindimovies img{
+    height: 300px;
+    width: 200px;
+    border-radius: 20px;
+}
+.hindimovies{
+    display: flex;
+    gap: 65px;
+    padding-left: 100px;
+    align-items: center;
+}
+.hindimovies a:hover{
+    cursor: pointer;
+    background-color: brown;
+    border-radius: 1px;
+    height: 300px;
+}
+/*css code for trending action movies*/
+.actionhindi>p{
+    color: white;
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 7px;
+}
+.actionhindimovies img{
+    height: 200px;
+    width: 140px;
+    border-radius: 19px;
+}
+.actionhindimovies{
+    display: flex;
+    gap: 65px;
+    padding-left: 130px;
+    align-items: center;
+}
+.actionhindimovies a:hover{
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: brown;
+    height: 200px;
+}
+/*css code for trending heartfelt hindi movies*/
+.heartfelt>p{
+    color: white;
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 7px;
+}
+.heartfeltmovies img{
+    height: 200px;
+    width: 140px;
+    border-radius: 19px;
+}
+.heartfeltmovies{
+    display: flex;
+    gap: 65px;
+    padding-left: 130px;
+    align-items: center;
+}
+.heartfeltmovies a:hover{
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: brown;
+    height: 200px
+}
+/*css code for trending romantic hindi movies*/
+.romantic>p{
+    color: white;
+    font-size: 29px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 7px;
+}
+.romanticmovies img{
+    height: 200px;
+    width: 140px;
+    border-radius: 19px;
+}
+.romanticmovies{
+    display: flex;
+    gap: 65px;
+    padding-left: 130px;
+    align-items: center;
+}
+.romanticmovies a:hover{
+    cursor: pointer;
+    border-radius: 2px;
+    background-color: brown;
+    height: 200px
+}
+/*css code for footer*/
+.footerclass .call>p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 70px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.footerclass .container .column1{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    list-style: none;
+    text-decoration: none;
+}
+.footerclass .container .column1 li:hover{
+    color: red;
+
+}
+.footerclass .container .column1>ul{
+    list-style: none;
+}
+.footerclass .container .column2{
+    color: white;
+    text-decoration: none;
+    list-style: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footerclass .container .column2 li:hover{
+    color: red;
+}
+.footerclass .container .column2>ul{
+    list-style: none;
+}
+.footerclass .container .column3{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.footerclass .container .column3 li:hover{
+    color: red;
+}
+.footerclass .container .column3>ul{
+    list-style: none;
+}
+.footerclass .container .column4{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.footerclass .container .column4 li:hover{
+    color: red;
+}
+.footerclass .container .column4>ul{
+    list-style: none;
+}
+.footerclass .container{
+    display: flex;
+    column-gap: 50px;
+    padding-left: 130px;
+    padding-top: 40px;
+}
+.footerclass .bottom{
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 70px;
+    padding-top: 30px;
+}
+.footerclass{
+    height: 350px;
+    padding-top: 50px;
+}
+
+@media(max-width:600px)
+{
+    *{
+        background-color: black;
+    }
+    /*css code for background image*/
+    .image .bestmoviesonnetflix{
+        height: 500px;
+        width: 900px;
+        display: block;
+        position: absolute;
+        top: 170px;
+        left: 200px;
+    }
+    /*netflix logo*/
+    .navbar .netflix{
+        color: red;
+        font-size: 60px;
+        font-weight: bold;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding-left: 30px;
+        text-decoration: none;
+    }
+    
+    .image .topmoviesbackground{
+        height: 600px;
+        width: 1250px;
+    }
+    /*css code for only on netflix movie section*/
+    .onlyonnetflix{
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        padding-left: 50px;
+        margin-bottom: 0px;
+        display: block;
+    }
+    .onlyonnetflixmovies .sector36{
+        height: 270px;
+        width: 200px;
+        border-radius: 20px;
+    }
+    .onlyonnetflixmovies a:hover{
+        cursor: pointer;
+        border-radius: 1px;
+        background-color: brown;
+        height: 270px;
+        position: relative;
+        top: 2px;   
+    }
+    .onlyonnetflixmovies img{
+        height: 270px;
+        width: 200px;
+        border-radius: 19px;
+    }
+    .onlyonnetflixmovies{
+        display: flex;
+        gap: 30px;
+        padding-left: 60px;
+        height: 270px;
+    }
+    /*css code for top 10 movies in india today*/
+    .top10moviesinindiatoday{
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;
+        padding-left: 50px;
+        margin-bottom: 0px;
+        display: block;
+    }
+    .numbers .one{
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .numbers .two{
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .numbers .three{
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .numbers .four{
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .numbers .five{
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .numbers .six{
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .numbers .seven{
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .numbers .eight{
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .numbers .nine{
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .numbers .ten{
+        font-size: 60px;
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .top10 .numbers{
+        display: inline-flex;
+        justify-content: space-between;
+        gap: 84px;
+        position: relative;
+        left: 30px;
+        margin-top: 50px;
+        margin-left: 40px;
+    }
+    .top10 .numbers>p{
+        
+        display: inline-block;
+        position: relative;
+        top: -30px;
+        right: 18px;
+    }
+    .top10{
+        height: 100px;
+        width: 1150px;
+        display: block;
+    }
+    .top10movies .i{
+        height: 120px;
+        width: 80px;
+        position: relative;
+        top: -220px;
+        left: 74px;
+    }
+    .top10movies .ii{
+        height: 120px;
+        width: 80px;
+        position: relative;
+        top: -220px;
+        left: 105px;
+    }
+    .top10movies .iii{
+        height: 120px;
+        width: 80px;
+        position: relative;
+        top: -220px;
+        left: 135px;
+    }
+    .top10movies .iv{
+        height: 120px;
+        width: 80px;
+        position: relative;
+        top: -220px;
+        left: 165px;
+    }
+    .top10movies .v{
+        height: 120px;
+        width: 80px;
+        position: relative;
+        top: -220px;
+        left: 196px;
+    }
+    .top10movies .vi{
+        height: 120px;
+        width: 80px;
+        position: relative;
+        top: -220px;
+        left: 225px;
+    }
+    .top10movies .vii{
+        height: 120px;
+        width: 80px;
+        position: relative;
+        top: -220px;
+        left: 255px;
+    }
+    .top10movies .viii{
+        height: 120px;
+        width: 80px;
+        position: relative;
+        top: -220px;
+        left: 285px;
+    }
+    .top10movies .ix{
+        height: 120px;
+        width: 80px;
+        position: relative;
+        top: -220px;
+        left: 315px;
+    }
+    .top10movies .x{
+        height: 120px;
+        width: 80px;
+        position: relative;
+        top: -220px;
+        left: 370px;
+    }
+    .top10movies img:hover{
+        height: 150px;
+        width: 100px;
+        position: relative;
+        
+    }
+    .top10{
+        height: 200px;
+    }
+    /*css code for trending english movies*/
+    .englishmovies img{
+        height: 300px;
+        width: 200px;
+        border-radius: 20px;
+    }
+    .englishmovies a:hover{
+        cursor: pointer;
+        background-color: brown;
+        border-radius: 10px;
+        height: 300px;
+    }
+    .englishmovies{
+        display: flex;
+        gap: 65px;
+        padding-left: 100px;
+        align-items: center;
+        display: block;
+    }
+    .trendingenglishmovies>p{
+        color: white;
+        font-size: 40px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+    /*css code for thriller movies*/
+    .thriller{
+        color: white;
+        font-size: 29px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: left;
+        padding-left: 50px;
+        display: block;
+    }
+    .horrormovies img{
+        height: 200px;
+        width: 140px;
+        border-radius: 19px;
+    }
+    .horrormovies{
+        display: flex;
+        gap: 65px;
+        padding-left: 130px;
+        align-items: center;
+        display: block;
+    }
+    .horrormovies a:hover{
+        cursor: pointer;
+        border-radius: 2px;
+        background-color: brown;
+        height: 200px;
+    }
+    /*css code for trending us movies*/
+    .us>p{
+        color: white;
+        font-size: 29px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: left;
+        padding-left: 50px;
+    }
+    .usmovies img{
+        height: 200px;
+        width: 140px;
+        border-radius: 19px;
+    }
+    .usmovies{
+        display: flex;
+        gap: 65px;
+        padding-left: 130px;
+        align-items: center;
+        display: block;
+    }
+    .usmovies a:hover{
+        cursor: pointer;
+        border-radius: 2px;
+        background-color: brown;
+        height: 200px;
+    }
+    /*css code for trending comedy english  movies*/
+    .comedy>p{
+        color: white;
+        font-size: 29px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: left;
+        padding-left: 50px;
+    }
+    .comedymovies img{
+        height: 200px;
+        width: 140px;
+        border-radius: 19px;
+    }
+    .comedymovies a:hover{
+        cursor: pointer;
+        border-radius: 2px;
+        background-color: brown;
+        height: 200px;
+    }
+    .comedymovies{
+        display: flex;
+        gap: 65px;
+        padding-left: 130px;
+        align-items: center;
+        display: block;
+    }
+    /*hr line*/
+    hr{
+        background-color: red;
+        height: 3px;
+        border-color: black;
+    }
+    /*css code for trending hindi movies*/
+    .trendinghindimovies>p{
+        color: white;
+        font-size: 40px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+    .hindimovies img{
+        height: 300px;
+        width: 200px;
+        border-radius: 20px;
+    }
+    .hindimovies{
+        display: flex;
+        gap: 65px;
+        padding-left: 100px;
+        align-items: center;
+        display: block;
+    }
+    .hindimovies a:hover{
+        cursor: pointer;
+        background-color: brown;
+        border-radius: 1px;
+        height: 300px;
+    }
+    /*css code for trending action movies*/
+    .actionhindi>p{
+        color: white;
+        font-size: 29px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 7px;
+    }
+    .actionhindimovies img{
+        height: 200px;
+        width: 140px;
+        border-radius: 19px;
+    }
+    .actionhindimovies{
+        display: flex;
+        gap: 65px;
+        padding-left: 130px;
+        align-items: center;
+        display: block;
+    }
+    .actionhindimovies a:hover{
+        cursor: pointer;
+        border-radius: 2px;
+        background-color: brown;
+        height: 200px;
+    }
+    /*css code for trending heartfelt hindi movies*/
+    .heartfelt>p{
+        color: white;
+        font-size: 29px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 7px;
+    }
+    .heartfeltmovies img{
+        height: 200px;
+        width: 140px;
+        border-radius: 19px;
+    }
+    .heartfeltmovies{
+        display: flex;
+        gap: 65px;
+        padding-left: 130px;
+        align-items: center;
+        display: block;
+    }
+    .heartfeltmovies a:hover{
+        cursor: pointer;
+        border-radius: 2px;
+        background-color: brown;
+        height: 200px
+    }
+    /*css code for trending romantic hindi movies*/
+    .romantic>p{
+        color: white;
+        font-size: 29px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: left;
+        padding-left: 50px;
+        padding-top: 7px;
+    }
+    .romanticmovies img{
+        height: 200px;
+        width: 140px;
+        border-radius: 19px;
+    }
+    .romanticmovies{
+        display: flex;
+        gap: 65px;
+        padding-left: 130px;
+        align-items: center;
+        display: block;
+    }
+    .romanticmovies a:hover{
+        cursor: pointer;
+        border-radius: 2px;
+        background-color: brown;
+        height: 200px
+    }
+    /*css code for footer*/
+    .footerclass .call>p{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-left: 70px;
+        font-size: 20px;
+        text-decoration: underline;
+    }
+    .footerclass .container .column1{
+        color: white;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: underline;
+        list-style: none;
+        text-decoration: none;
+    }
+    .footerclass .container .column1 li:hover{
+        color: red;
+    
+    }
+    .footerclass .container .column1>ul{
+        list-style: none;
+    }
+    .footerclass .container .column2{
+        color: white;
+        text-decoration: none;
+        list-style: none;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .footerclass .container .column2 li:hover{
+        color: red;
+    }
+    .footerclass .container .column2>ul{
+        list-style: none;
+    }
+    .footerclass .container .column3{
+        color: white;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+    }
+    .footerclass .container .column3 li:hover{
+        color: red;
+    }
+    .footerclass .container .column3>ul{
+        list-style: none;
+    }
+    .footerclass .container .column4{
+        color: white;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: none;
+    }
+    .footerclass .container .column4 li:hover{
+        color: red;
+    }
+    .footerclass .container .column4>ul{
+        list-style: none;
+    }
+    .footerclass .container{
+        display: flex;
+        column-gap: 50px;
+        padding-left: 130px;
+        padding-top: 40px;
+    }
+    .footerclass .bottom{
+        color: white;
+        text-align: left;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-left: 70px;
+        padding-top: 30px;
+    }
+    .footerclass{
+        height: 350px;
+        padding-top: 50px;
+    }  
+    body{
+        max-width: 1253px;
+        min-width: 300px;
+    }  
+}
+
